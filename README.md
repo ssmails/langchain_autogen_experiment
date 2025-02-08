@@ -1,4 +1,5 @@
-### Demonstrate communication with different Agentic framework like Autogen using Langchain Agent Protocol and RemoteGraphs.
+### Purpose
+#### Demonstrate communication between different Agentic framework like LangGraph and Autogen. 
 
 ### Prerequisites
 
@@ -9,4 +10,5 @@
    source env/bin/activate
    pip3 install -r requirements.txt
    ```
-3. Run the client code from this repo (python3 app/langchain_ap_stateless.py)
+3. Run the client code from this repository.
+   
