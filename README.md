@@ -1,5 +1,5 @@
 ### Purpose
-#### Demonstrate communication between different Agentic framework like LangGraph and Autogen. 
+#### Demonstrates communication between different Agentic framework like LangGraph and Autogen. 
 
 ### Prerequisites
 
